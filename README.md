@@ -22,6 +22,8 @@ git commit -m "first commit"
 git remote add origin git@github.com:vrazumov/components-lib.git
 git push -u origin master
 
+----------------
+
 git commit -m "initial commit"
 git push origin master
 
