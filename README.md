@@ -1,4 +1,4 @@
-# myUI
+# Components Lib 01
 
 Example on how to build your own UI components library and showcase it in the same code structure. Check the medium article.
 
