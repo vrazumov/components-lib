@@ -28,7 +28,6 @@ git commit -m "initial commit"
 git push origin master
 
 
-1
 git push -f origin master
 
 
