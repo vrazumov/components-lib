@@ -25,7 +25,10 @@ git push -u origin master
 ----------------
 
 git commit -m "initial commit"
+
 git push origin master
+
+----------------
 
 
 git push -f origin master
